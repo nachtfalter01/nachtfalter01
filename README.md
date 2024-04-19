@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silas!
-- 👀 I’m interested in development using Python.
-- 🌱 I’m currently learning the basics of Rust as well as Machine Learning with Keras/Tensorflow.
+- 👀 I’m interested in Python development.
+- 🌱 I’m currently writing my bachelor's thesis on Deep Learning using PyTorch.
 - 📫 How to reach me: silasfboehner@gmail.com
 
 <!---
