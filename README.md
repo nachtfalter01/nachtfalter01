@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silas!
-- 👀 I’m interested in Python development.
-- 🌱 I’m currently writing my bachelor's thesis on Deep Learning using PyTorch.
+- 👀 I’m interested in Python / C++ / Rust development.
+- 🌱 I’m currently employed as a C++ Software Engineer
 - 📫 How to reach me: silasfboehner@gmail.com
 
 <!---
